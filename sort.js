@@ -1,4 +1,4 @@
-/// gitHub テスト用
+/ // gitHub テスト用
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
